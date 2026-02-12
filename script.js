@@ -1,3 +1,4 @@
+alert("JavaScript يعمل");
 const { createClient } = supabase;
 
 const supabaseUrl = "https://dilafguuskdjnxchtnkw.supabase.co";
